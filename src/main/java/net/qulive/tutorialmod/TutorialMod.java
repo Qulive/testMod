@@ -24,7 +24,7 @@ public class TutorialMod
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }
-
+    // Very important comment
     private void commonSetup(final FMLCommonSetupEvent event)
     {
     }
