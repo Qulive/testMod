@@ -1,4 +1,5 @@
 {
   "item.testmod.zircon": "Цирконий",
-  "item.testmod.raw_zircon": "Рудный цирконий"
+  "item.testmod.raw_zircon": "Рудный цирконий",
+  "itemGroup.testtab": "Тестовая вкладка"
 }
