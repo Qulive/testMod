@@ -1,5 +1,9 @@
 {
   "item.testmod.zircon": "Zircon",
   "item.testmod.raw_zircon": "Raw zircon",
+
+  "block.testmod.zircon_block": "Block of zircon",
+  "block.testmod.zircon_ore": "Zircon ore",
+  "block.testmod.deepslate_zircon_ore": "Deepslate zircon ore",
   "itemGroup.testtab": "Test tab"
 }

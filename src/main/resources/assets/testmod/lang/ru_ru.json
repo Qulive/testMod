@@ -1,5 +1,9 @@
 {
   "item.testmod.zircon": "Цирконий",
   "item.testmod.raw_zircon": "Рудный цирконий",
+
+  "block.testmod.zircon_block": "Блок циркония",
+  "block.testmod.zircon_ore": "Циркониевая руда",
+  "block.testmod.deepslate_zircon_ore": "Глубинный цирконий",
   "itemGroup.testtab": "Тестовая вкладка"
 }
